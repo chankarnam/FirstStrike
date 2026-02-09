@@ -1,0 +1,7 @@
+{
+  "name": "FirstStrike",
+  "description": "A multi-agent AI command center for real-time emergency dispatch, resource prioritization, and tactical coordination.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
